@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1492057877 source:c:\users\simon\desktop\programming\c++\lab7\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<vector>
+	<strstream>
+
+1492057877 >
+
+1492054277 source:/media/simon/OS/Users/Simon/Desktop/Programming/Programming II/C++/Lab7/main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<vector>
+	<strstream>
+
